@@ -38,30 +38,29 @@ const Home: NextPage = () => {
             <div className={styles.heroBody}>
               <h1 className={styles.heroTitle}>
                 <span className={styles.heroTitleGradient}>
-                  Build NFT Marketplaces
+                  SPUNTENTERTAINMENT(DOT)COM
                 </span>
                 <br />
-                faster than ever.
+                WE ARE NOT SORRY, AT ALL
               </h1>
               <p className={styles.heroSubtitle}>
                 <Link
                   className={styles.link}
-                  href="https://thirdweb.com"
+                  href="https://sppunnt.com"
                   target="_blank"
                 >
-                  thirdweb
+                  (dot)sppunntnnet
                 </Link>{" "}
-                gives you the tools you need to create audited, performant, and
-                flexible NFT marketplaces in <b>hours</b>, <i>not months</i>.
+                spuntentertainment is not <b>responsible</b>, <i>ever</i>.
               </p>
 
               <div className={styles.heroCtaContainer}>
                 <Link className={styles.heroCta} href="/buy">
-                  Get Started
+                  Get Some
                 </Link>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://github.com/thirdweb-example/marketplace-v3"
+                  href="https://github.com/HashbrownKazang/emporium3"
                   target="_blank"
                 >
                   GitHub

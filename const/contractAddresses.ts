@@ -10,8 +10,7 @@ export const NETWORK = Polygon;
 export const MARKETPLACE_ADDRESS = "0x88B429Ff63aF913bbEf13a83441aF93Cde510761";
 
 // 3. The address of your NFT collection smart contract.
-export const NFT_COLLECTION_ADDRESS =
-  "0x3eB42feb78DB9f4bCf4bB10241cc03BCa95e79e3";
+export const NFT_COLLECTION_ADDRESS = "0x3913Bd4d33EdD84192B8086f295e7Cb45f83d093";
 
 // (Optional) Set up the URL of where users can view transactions on
 // For example, below, we use polygonscan.com to view transactions on the Polygon Mainnet.
